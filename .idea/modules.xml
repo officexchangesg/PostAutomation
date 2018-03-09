@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../InstaPy/InstaPy/.idea/InstaPy.iml" filepath="$PROJECT_DIR$/../../InstaPy/InstaPy/.idea/InstaPy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PostAutomation.iml" filepath="$PROJECT_DIR$/.idea/PostAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../whatspp-assistant-bot-selenium/whatsapp-assistant-bot/.idea/whatsapp-assistant-bot.iml" filepath="$PROJECT_DIR$/../../whatspp-assistant-bot-selenium/whatsapp-assistant-bot/.idea/whatsapp-assistant-bot.iml" />
     </modules>
   </component>
 </project>
